@@ -2,7 +2,7 @@
 The objective of this project is to predict whether the consumer will keep their reservation or cancel it
 Hotel Reservations – Classification using Python
  
-Introduction
+Introduction-
 Classification is a supervised learning technique in data mining used to identify a category or class to which new observations belong based on their characteristics. In classification, a model is trained on a labeled dataset (where the classes are known) and then used to predict the class of unseen observations.
 In a Random Forest Classifier, multiple decision trees are created on random subsets of the training data, and each tree votes for the class of the input data. The final prediction is then made based on the majority vote of all the trees.
 k-Nearest Neighbor (kNN) model is a non-parametric and lazy learning algorithm that relies on a similarity measure between instances to make predictions. ‘In kNN classification, the idea is to find the k-nearest neighbors of a new data point based on a distance metric such as Euclidean distance, and then classify the new point based on the majority class of its k-nearest neighbors. The value of k is a hyperparameter that can be tuned to optimize the performance of the model.
